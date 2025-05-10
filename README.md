@@ -21,7 +21,7 @@ A simple Python script to transcribe audio files into text using the Vosk speech
 1. **Clone this repository**
 
    ```bash
-   git clone https://github.com/your-username/vosk-audio-transcriber.git
+   git clone https://github.com/Ariashakoo/Vosk-audio-transcription
    cd vosk-audio-transcriber
 ````
 
